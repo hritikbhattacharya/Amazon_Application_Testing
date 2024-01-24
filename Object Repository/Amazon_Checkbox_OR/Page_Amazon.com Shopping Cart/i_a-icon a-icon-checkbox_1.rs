@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_a-icon a-icon-checkbox_1</name>
+   <tag></tag>
+   <elementGuidId>bad2899a-a458-4e23-9b31-99f7d850358a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sc-active-C75ebe5c1-b04a-4330-ac42-741274781a12']/div[4]/div/div/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-checkbox.a-checkbox-fancy.sc-item-check-checkbox-selector.sc-list-item-checkbox > label > i.a-icon.a-icon-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>09f1c814-11d7-403e-945e-303e3d1a128f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-icon a-icon-checkbox</value>
+      <webElementGuid>6932ba79-b618-4743-bba2-3d2e70768694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sc-active-C75ebe5c1-b04a-4330-ac42-741274781a12&quot;)/div[@class=&quot;sc-list-item-content&quot;]/div[@class=&quot;a-row a-grid-vertical-align a-grid-top sc-list-item-content-inner&quot;]/div[@class=&quot;a-checkbox a-checkbox-fancy sc-item-check-checkbox-selector sc-list-item-checkbox&quot;]/label[1]/i[@class=&quot;a-icon a-icon-checkbox&quot;]</value>
+      <webElementGuid>cefbe051-1cba-4cd3-a89e-6a3d5effc9e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sc-active-C75ebe5c1-b04a-4330-ac42-741274781a12']/div[4]/div/div/label/i</value>
+      <webElementGuid>45139ed4-3033-42ca-bbcd-de22913e7cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/label/i</value>
+      <webElementGuid>855607b8-7a1e-4c37-8877-7622a941eb95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
